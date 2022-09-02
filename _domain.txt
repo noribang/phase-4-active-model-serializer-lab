@@ -1,0 +1,4 @@
+author-<post-<post_tags
+        post-<(through)post_tag-<tag
+        post>-(through)post_tag>-tag
+author-profile
